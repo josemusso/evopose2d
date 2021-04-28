@@ -1,4 +1,7 @@
 # EvoPose2D
+
+** Must add tensorflow/ (with person detector) and coco/ folder. Some .h5 files in models too.
+
 Source code for EvoPose2D: Pushing the Boundaries of 2D Human Pose Estimation using Neuroevolution.
 Implemented using Python 3.7 and TensorFlow 2.3.
 
