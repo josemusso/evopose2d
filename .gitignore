@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.gz
+*.avi
+*.AVI
+*.mov
+*.mp4
+coco/
+tensorflow/
